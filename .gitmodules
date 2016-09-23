@@ -6,4 +6,4 @@
 	url = git://github.com/sanskrit/sanscript.php
 [submodule "sanscript.rb"]
 	path = sanscript.rb
-	url = https://github.com/NaanProphet/sanscript.rb.git
+	url = git@github.com:NaanProphet/sanscript.rb.git
